@@ -1,0 +1,14 @@
+/home/iso/Desktop/codes/c#/math_parser/bin/Debug/net9.0/math_parser
+/home/iso/Desktop/codes/c#/math_parser/bin/Debug/net9.0/math_parser.deps.json
+/home/iso/Desktop/codes/c#/math_parser/bin/Debug/net9.0/math_parser.runtimeconfig.json
+/home/iso/Desktop/codes/c#/math_parser/bin/Debug/net9.0/math_parser.dll
+/home/iso/Desktop/codes/c#/math_parser/bin/Debug/net9.0/math_parser.pdb
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.GeneratedMSBuildEditorConfig.editorconfig
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.AssemblyInfoInputs.cache
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.AssemblyInfo.cs
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.csproj.CoreCompileInputs.cache
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.dll
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/refint/math_parser.dll
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.pdb
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/math_parser.genruntimeconfig.cache
+/home/iso/Desktop/codes/c#/math_parser/obj/Debug/net9.0/ref/math_parser.dll
